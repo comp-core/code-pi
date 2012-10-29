@@ -33,6 +33,9 @@ sudo apt-get -yqq install netatalk
 echo "Installing Python Modules..."
 sudo pip -q install tweepy pygame 
 
+echo "Ignoring bad SSL"
+#Note: this is only for firewall situations
+git config --global http.sslVerify false
 
 echo "Done with Software."
 
