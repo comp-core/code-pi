@@ -9,7 +9,7 @@ This repo is for code and course material to teach coding using a [Raspberry Pi]
 Contributions welcome via pull requests.  Guidence regarding organization is forthcoming.
 
 ## License
-This content is provided under the [GPLv3](http://www.gnu.org/licenses/gpl.html).
+Original material copyright Elliott Hauser, provided under the [GPLv3](http://www.gnu.org/licenses/gpl.html).  Other material copyrighted and licenced as noted.
 
 ## Trademarks
 Raspberry Pi word mark and logo are trademarks of the Raspberry Pi Foundation.  Restrictions on their useage can be found [here](http://www.raspberrypi.org/trademark-rules).
