@@ -27,6 +27,7 @@ There are several great resources out there for teaching coding on the Pi.  Whil
 * [Pi Education Manual](http://www.raspberrypi.org/archives/2965) ([PDF here](http://downloads.raspberrypi.org/Raspberry_Pi_Education_Manual.pdf)) - An excellent and broad intro into what you can do with the Pi.  code-pi contains a transcription of much of the code from the Python section.
 * [Invent with Python](http://inventwithpython.com/) - A free book focused on learning through game creation. Many/most of the Python games that come with the Pi were written by the book's author, Al Sweigart.
 * [Think Python](http://www.greenteapress.com/thinkpython/) - A Python textbook available as a free e-book or in hard copy from Amazon.  See also [our fork](http://github.com/comp-core/Think-Python) of the author's code repo going along with the book.  We'll be editing and improving the usability of the repo.
+* [The Hitchhiker's Guide to Python](https://python-guide.readthedocs.org/en/latest/) - an excellent and [collaboratively edited](https://github.com/kennethreitz/python-guide) guide to practical Python, somewhat targeted towards professional developers.  Great content for older studets/those who want to work on larger projects.
 
 This is only a partial list.  Think you've got more good links?  Contribute them!
 
