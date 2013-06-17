@@ -52,7 +52,7 @@ echo "$STARS Updating Display Settings $STARS"
 
 echo "Forcing HDMI hotplug"
 sudo sed -i 's@^#hdmi_force_hotplug=1@hdmi_force_hotplug=1@g' /boot/config.txt
-echo "Done with Display Settings
+echo "Done with Display Settings"
 
 echo "$STARS Downloading Project Files $STARS"
 
